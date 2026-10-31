@@ -1,0 +1,6 @@
+{
+  "name": "Food Purity Checker – શુદ્ધ આહાર",
+  "description": "Check everyday food and drink products for purity and adulteration with home tests, lab verification guidance, and AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
